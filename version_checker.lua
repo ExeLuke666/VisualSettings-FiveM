@@ -1,3 +1,12 @@
+--[[
+    __          __   _         ______     _____ ___   _____ ____  ____ 
+   / /   __  __/ /__(_)__     / ____ \   / ___//   | / ___// __ \/ __ \
+  / /   / / / / //_/ / _ \   / / __ `/   \__ \/ /| | \__ \/ /_/ / /_/ /
+ / /___/ /_/ / ,< / /  __/  / / /_/ /   ___/ / ___ |___/ / _, _/ ____/ 
+/_____/\__,_/_/|_/_/\___/   \ \__,_/   /____/_/  |_/____/_/ |_/_/      
+                             \____/                                    
+    This script is not meant for reproduction, any reproduction found will be permanentally terminated without any notice.
+]]
 local currentVersion = GetResourceMetadata(GetCurrentResourceName(), 'version', 0)
 local resourceName = '^5[' .. GetCurrentResourceName() .. ']^0'
 
